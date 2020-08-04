@@ -6,7 +6,7 @@
 <a href="https://instagram.com/shuli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shuli" height="20" width="20" /></a>
 </p>
 <br />
-<img align="right" alt="GIF" src="https://giphy.com/gifs/LHZyixOnHwDDy" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
 ### I'm Ash
 🖥️ Computer Science student in Maine
