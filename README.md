@@ -9,7 +9,7 @@
 
 ### I'm Ash
 - 🖥️ Computer Science student in Maine
-- 📊 Interested in Data Science + Machine Learning
+- 📊 Interested in Software Engineering + Machine Learning
 - 🌟 Currently working on a side scrolling game
 - 🚗 Currently working on visualizing Philadelphia crash data
 
