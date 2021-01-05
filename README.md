@@ -11,6 +11,4 @@
 - 🖥️ Computer Science student in Maine
 - 📊 Interested in Software Engineering + Machine Learning
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashdrex" alt="ashdrex" /> </p>
