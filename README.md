@@ -8,7 +8,8 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
 ### I'm Ash
-- 🖥️ Computer Science student in Maine
-- 📊 Interested in Software Engineering + Machine Learning
+- 🖥️ Software developer in Maine
+- 📚 Computer science student
+- 🌱 Houseplant enthusiast
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashdrex" alt="ashdrex" /> </p>
