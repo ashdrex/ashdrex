@@ -5,7 +5,5 @@
 I'm Ashley. I'm an industrial designer turned software developer residing in Maine.
 
 <p align="left">
-<a href="https://linkedin.com/in/ashdrex">Linkedin</a> | 
-<a href="https://fb.com/ashdrex">Facebook</a> | 
-<a href="https://instagram.com/shuli">Instagram</a>
+<a href="https://linkedin.com/in/ashdrex">Linkedin</a>
 </p>
